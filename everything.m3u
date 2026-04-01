@@ -1,4 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aprilfool" tvg-name="April Fool Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Live TV",April Fool Live
-#EXTVLCOPT:network-caching=1000
-https://github.com/Twilight-Net/April_fool.m3u/raw/refs/heads/main/1.mp4
+
+#EXTINF:-1 tvg-id="news" tvg-name="Breaking News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Live TV",Breaking News Live
+https://cdn.jsdelivr.net/gh/Twilight-Net/Everything@main/1.m3u8
+
+#EXTINF:-1 tvg-id="sports" tvg-name="IPL Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Sports",IPL Live HD
+https://cdn.jsdelivr.net/gh/Twilight-Net/Everything@main/1.m3u8
+
+#EXTINF:-1 tvg-id="study" tvg-name="Study Live Class" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Education",Study Live Class
+https://cdn.jsdelivr.net/gh/Twilight-Net/Everything@main/1.m3u8
+
+#EXTINF:-1 tvg-id="music" tvg-name="Music Live 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Music",Music Live 24/7
+https://cdn.jsdelivr.net/gh/Twilight-Net/Everything@main/1.m3u8
