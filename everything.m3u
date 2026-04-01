@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="aprilfool" tvg-name="April Fool" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Fun",April Fool
-https://github.com/Twilight-Net/Everything/raw/refs/heads/main/1.mp4
+#EXTINF:-1 tvg-id="aprilfool" tvg-name="April Fool Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/70/Never_Gonna_Give_You_Up.png" group-title="Live TV",April Fool Live
+#EXTVLCOPT:network-caching=1000
+https://github.com/Twilight-Net/April_fool.m3u/raw/refs/heads/main/1.mp4
